@@ -8,8 +8,6 @@ export const LeadersTomorrowStyle = styled.div`
     background-color: rgb(252, 41, 71);
     border-radius: 200px;
     width: 1400px;
-
-    
     padding: 2rem;
   }
   .heading {
